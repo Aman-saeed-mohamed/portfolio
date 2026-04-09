@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "resume": "Resume",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm Aman Saeed",
+    "title": "Web Developer & Data Enthusiast",
+    "tagline": "I build modern web applications and data-driven solutions.",
+    "view_projects": "View Projects",
+    "hire_me": "Hire Me",
+    "experience_badge": "Years Experience"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a web developer passionate about building modern web applications and data-driven solutions. I focus on clean UI, performance, and scalable systems.",
+    "download_cv": "Download CV"
+  },
+  "skills": {
+    "title": "My Skills",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "data": "Data",
+    "tools": "Tools"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "live_demo": "Live Demo",
+    "github": "GitHub"
+  },
+  "github": {
+    "title": "GitHub Repositories",
+    "view_profile": "View GitHub Profile"
+  },
+  "services": {
+    "title": "My Services",
+    "request": "Request Service",
+    "web_dev": "Web Development",
+    "web_dev_desc": "Building fast, responsive, and scalable single-page applications.",
+    "ui_ux": "UI/UX Design",
+    "ui_ux_desc": "Creating modern and clean user interfaces for web and mobile apps.",
+    "db_design": "Database Design",
+    "db_design_desc": "Designing efficient SQL / NoSQL schemas for scalable applications.",
+    "data_dashboards": "Data Dashboards",
+    "data_dashboards_desc": "Building insightful dashboards using Power BI and data analysis."
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "name": "Name",
+    "email": "Email",
+    "service": "Service Needed",
+    "project_desc": "Project Description",
+    "budget": "Budget (Optional)",
+    "send": "Send Message",
+    "select_service": "Select a Service"
+  },
+  "experience": {
+    "title": "Experience"
+  },
+  "testimonials": {
+    "title": "Testimonials"
+  }
+}
